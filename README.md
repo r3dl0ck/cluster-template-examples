@@ -5,7 +5,7 @@ This project contains rke2 cluster template helm chart, which can be applied wit
 ### Adding the Helm Chart via CLI
 
 ```bash
-helm repo add cluster-templates https://raw.githubusercontent.com/rancher/cluster-template-examples/main
+helm repo add cluster-templates https://raw.githubusercontent.com/r3dl0ck/cluster-template-examples/main
 helm repo update
 ```
 
@@ -19,7 +19,7 @@ helm repo update
 ```
 Name: cluster-templates
 Target: Git Repository containing Helm chart definitions
-Git Repo URL: https://github.com/rancher/cluster-template-examples
+Git Repo URL: https://github.com/r3dl0ck/cluster-template-examples
 Authentication: None
 ```
 
